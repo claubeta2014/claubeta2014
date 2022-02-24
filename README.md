@@ -7,12 +7,11 @@ Olá!  Eu sou a Claudia Roberta.
 
 Here are some ideas to get you started:
 
-🔭 I'm currently only working on my knowledge to learn more...
-🌱 I'm currently learning java, javaScript, HTML and CSS...
-📫 Tell me by email: claubeta2014@gmail.com
-😄 Pronouns: Roberta
+- 🔭 I'm currently only working on my knowledge to learn more...
+- 🌱 I'm currently learning java, javaScript, HTML and CSS....
+- 📫 Tell me by email: claubeta2014@gmail.com
+- 😄 Pronouns: Roberta
 
-##
 
 <div align="center">
   <a href="https://github.com/claubeta2014">
