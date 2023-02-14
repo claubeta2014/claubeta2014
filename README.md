@@ -2,15 +2,11 @@ Olá!  Eu sou a Claudia Roberta.
 
 ##
 
-
 **claubeta2014/claubeta2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I'm currently only working on my knowledge to learn more...
 - 🌱 I'm currently learning java, javaScript, HTML and CSS....
-- 📫 Tell me by email: betaroberta1988@gmail.com
-- 😄 Pronouns: Roberta
+- 😄 Pronouns: Ela/Dela
 
 
 <div align="center">
